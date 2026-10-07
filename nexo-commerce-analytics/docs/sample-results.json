@@ -1,0 +1,114 @@
+{
+  "dataset": "synthetic-v1",
+  "checks": 22,
+  "monthly_kpis": [
+    {
+      "month": "2025-01-01T00:00:00.000Z",
+      "orders": 140,
+      "customers": 86,
+      "net_revenue": "66053.83",
+      "average_ticket": "471.81",
+      "product_contribution": "36162.83",
+      "contribution_pct": "54.75"
+    },
+    {
+      "month": "2025-02-01T00:00:00.000Z",
+      "orders": 126,
+      "customers": 80,
+      "net_revenue": "61153.00",
+      "average_ticket": "485.34",
+      "product_contribution": "33456.00",
+      "contribution_pct": "54.71"
+    },
+    {
+      "month": "2025-03-01T00:00:00.000Z",
+      "orders": 139,
+      "customers": 86,
+      "net_revenue": "66547.83",
+      "average_ticket": "478.76",
+      "product_contribution": "36414.83",
+      "contribution_pct": "54.72"
+    },
+    {
+      "month": "2025-04-01T00:00:00.000Z",
+      "orders": 133,
+      "customers": 84,
+      "net_revenue": "61457.00",
+      "average_ticket": "462.08",
+      "product_contribution": "33563.00",
+      "contribution_pct": "54.61"
+    },
+    {
+      "month": "2025-05-01T00:00:00.000Z",
+      "orders": 141,
+      "customers": 87,
+      "net_revenue": "66128.00",
+      "average_ticket": "468.99",
+      "product_contribution": "36206.00",
+      "contribution_pct": "54.75"
+    },
+    {
+      "month": "2025-06-01T00:00:00.000Z",
+      "orders": 131,
+      "customers": 78,
+      "net_revenue": "60382.33",
+      "average_ticket": "460.93",
+      "product_contribution": "33013.33",
+      "contribution_pct": "54.67"
+    },
+    {
+      "month": "2025-07-01T00:00:00.000Z",
+      "orders": 138,
+      "customers": 84,
+      "net_revenue": "63578.33",
+      "average_ticket": "460.71",
+      "product_contribution": "34732.33",
+      "contribution_pct": "54.63"
+    },
+    {
+      "month": "2025-08-01T00:00:00.000Z",
+      "orders": 139,
+      "customers": 86,
+      "net_revenue": "66997.50",
+      "average_ticket": "482.00",
+      "product_contribution": "36567.50",
+      "contribution_pct": "54.58"
+    },
+    {
+      "month": "2025-09-01T00:00:00.000Z",
+      "orders": 137,
+      "customers": 85,
+      "net_revenue": "63288.75",
+      "average_ticket": "461.96",
+      "product_contribution": "34598.75",
+      "contribution_pct": "54.67"
+    },
+    {
+      "month": "2025-10-01T00:00:00.000Z",
+      "orders": 139,
+      "customers": 87,
+      "net_revenue": "65561.83",
+      "average_ticket": "471.67",
+      "product_contribution": "35829.83",
+      "contribution_pct": "54.65"
+    },
+    {
+      "month": "2025-11-01T00:00:00.000Z",
+      "orders": 134,
+      "customers": 82,
+      "net_revenue": "64175.50",
+      "average_ticket": "478.92",
+      "product_contribution": "35054.50",
+      "contribution_pct": "54.62"
+    },
+    {
+      "month": "2025-12-01T00:00:00.000Z",
+      "orders": 135,
+      "customers": 82,
+      "net_revenue": "64790.75",
+      "average_ticket": "479.93",
+      "product_contribution": "35467.75",
+      "contribution_pct": "54.74"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "nexo-commerce-analytics",
+  "version": "1.0.0",
+  "description": "Laborat\u00f3rio PostgreSQL de modelagem relacional e an\u00e1lise de vendas com dados sint\u00e9ticos",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/check.mjs",
+    "query": "node scripts/query.mjs"
+  },
+  "keywords": [],
+  "author": "Renan Pratavieira Santos",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8"
+  },
+  "private": true
+}
